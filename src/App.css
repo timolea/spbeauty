@@ -9,3 +9,6 @@ padding-bottom: 8px!important;
     border-radius: 8px;
     border: solid #64748B 1px;
 }
+.gap-96{
+    gap: 96px;
+}
