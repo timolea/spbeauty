@@ -10,7 +10,7 @@ function SecondaryButton(props) {
         border-radius: 24px;
         box-shadow: inset 0px 1px 2px rgba(10, 15, 26, 0.08);
         min-width: ${minWidth};
-        color: #152842;
+        color: #64748B;
         &:hover {
             opacity:0.8;
         }
