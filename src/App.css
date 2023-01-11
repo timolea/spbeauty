@@ -1,5 +1,5 @@
 /* Временные стили добавлять здесь */
-.p-2 {
+.p-2search {
 padding-left: 16px!important;
 padding-top: 8px!important;
 padding-right: 16px!important;
@@ -10,5 +10,16 @@ padding-bottom: 8px!important;
     border: solid #64748B 1px;
 }
 .gap-96{
-    gap: 96px;
+    gap: 84px;
 }
+.p-2add {
+    padding-left: 0px!important;
+    padding-top: 40px!important;
+    padding-right: 0px!important;
+}
+.gap-40{
+    gap: 40px;
+} 
+.mt-64{
+    margin-top: 64px!important;
+}      
